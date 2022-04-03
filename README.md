@@ -4,6 +4,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Fix ‘react-scripts’ is not recognized as an internal or external command:
+
+### `npm install react-scripts -save`
+
+Or
+
+### `npm install`
+
 In the project directory, you can run:
 
 ### `npm start`
